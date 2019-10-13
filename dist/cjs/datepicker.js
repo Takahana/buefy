@@ -13,7 +13,7 @@ require('./chunk-68185b37.js');
 require('./chunk-5742ca86.js');
 require('./chunk-3bcbff19.js');
 require('./chunk-893d2481.js');
-var __chunk_15 = require('./chunk-574f79bb.js');
+var __chunk_15 = require('./chunk-29b00085.js');
 
 var Plugin = {
   install: function install(Vue) {

@@ -2780,7 +2780,7 @@
       */
       onChangeNativePicker: function onChangeNativePicker(event) {
         var date = event.target.value;
-        this.computedValue = date ? new Date(date) : null;
+        this.computedValue = date ? new Date(date + 'T00:00:00') : null;
       },
       updateInternalState: function updateInternalState(value) {
         var currentDate = Array.isArray(value) ? !value.length ? this.dateCreator() : value[0] : !value ? this.dateCreator() : value;
