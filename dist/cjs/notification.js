@@ -10,13 +10,13 @@ var __chunk_3 = require('./chunk-98a92ff2.js');
 require('./chunk-917cb730.js');
 var __chunk_6 = require('./chunk-13e039f5.js');
 var Vue = _interopDefault(require('vue'));
-var __chunk_17 = require('./chunk-3270f26a.js');
-var __chunk_18 = require('./chunk-9f335e9e.js');
+var __chunk_19 = require('./chunk-3270f26a.js');
+var __chunk_20 = require('./chunk-9f335e9e.js');
 
 //
 var script = {
   name: 'BNotification',
-  mixins: [__chunk_17.MessageMixin],
+  mixins: [__chunk_19.MessageMixin],
   props: {
     position: String,
     ariaCloseLabel: String
@@ -58,7 +58,7 @@ var __vue_staticRenderFns__ = [];
 //
 var script$1 = {
   name: 'BNotificationNotice',
-  mixins: [__chunk_18.NoticeMixin],
+  mixins: [__chunk_20.NoticeMixin],
   props: {
     indefinite: {
       type: Boolean,

@@ -21,7 +21,10 @@ require('./chunk-5742ca86.js');
 require('./chunk-3bcbff19.js');
 var clockpicker = require('./clockpicker.js');
 require('./chunk-893d2481.js');
+require('./chunk-574f79bb.js');
 var datepicker = require('./datepicker.js');
+require('./chunk-0b3b5690.js');
+var datetimepicker = require('./datetimepicker.js');
 require('vue');
 require('./chunk-b8957314.js');
 var dialog = require('./dialog.js');
@@ -70,6 +73,7 @@ var components = /*#__PURE__*/Object.freeze({
     Clockpicker: clockpicker.default,
     Collapse: collapse.default,
     Datepicker: datepicker.default,
+    Datetimepicker: datetimepicker.default,
     Dialog: dialog.default,
     Dropdown: dropdown.default,
     Field: field.default,
@@ -130,6 +134,7 @@ exports.Checkbox = checkbox.default;
 exports.Collapse = collapse.default;
 exports.Clockpicker = clockpicker.default;
 exports.Datepicker = datepicker.default;
+exports.Datetimepicker = datetimepicker.default;
 exports.Dialog = dialog.default;
 exports.DialogProgrammatic = dialog.DialogProgrammatic;
 exports.Dropdown = dropdown.default;

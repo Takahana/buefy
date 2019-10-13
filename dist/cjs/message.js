@@ -7,12 +7,12 @@ require('./chunk-63cbbdfd.js');
 require('./chunk-98a92ff2.js');
 require('./chunk-917cb730.js');
 var __chunk_6 = require('./chunk-13e039f5.js');
-var __chunk_17 = require('./chunk-3270f26a.js');
+var __chunk_19 = require('./chunk-3270f26a.js');
 
 //
 var script = {
   name: 'BMessage',
-  mixins: [__chunk_17.MessageMixin],
+  mixins: [__chunk_19.MessageMixin],
   props: {
     ariaCloseLabel: String
   },

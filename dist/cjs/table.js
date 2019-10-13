@@ -10,8 +10,8 @@ var __chunk_5 = require('./chunk-917cb730.js');
 var __chunk_6 = require('./chunk-13e039f5.js');
 var __chunk_9 = require('./chunk-be05f1e8.js');
 var __chunk_14 = require('./chunk-893d2481.js');
-var __chunk_19 = require('./chunk-b195fc56.js');
-var __chunk_21 = require('./chunk-3dffe6e7.js');
+var __chunk_21 = require('./chunk-b195fc56.js');
+var __chunk_23 = require('./chunk-3dffe6e7.js');
 
 var _components;
 var script = {
@@ -205,7 +205,7 @@ var __vue_staticRenderFns__$1 = [];
 var _components$1;
 var script$2 = {
   name: 'BTable',
-  components: (_components$1 = {}, __chunk_1._defineProperty(_components$1, __chunk_9.Checkbox.name, __chunk_9.Checkbox), __chunk_1._defineProperty(_components$1, __chunk_5.Icon.name, __chunk_5.Icon), __chunk_1._defineProperty(_components$1, __chunk_19.Pagination.name, __chunk_19.Pagination), __chunk_1._defineProperty(_components$1, __chunk_21.SlotComponent.name, __chunk_21.SlotComponent), __chunk_1._defineProperty(_components$1, TableMobileSort.name, TableMobileSort), __chunk_1._defineProperty(_components$1, TableColumn.name, TableColumn), _components$1),
+  components: (_components$1 = {}, __chunk_1._defineProperty(_components$1, __chunk_9.Checkbox.name, __chunk_9.Checkbox), __chunk_1._defineProperty(_components$1, __chunk_5.Icon.name, __chunk_5.Icon), __chunk_1._defineProperty(_components$1, __chunk_21.Pagination.name, __chunk_21.Pagination), __chunk_1._defineProperty(_components$1, __chunk_23.SlotComponent.name, __chunk_23.SlotComponent), __chunk_1._defineProperty(_components$1, TableMobileSort.name, TableMobileSort), __chunk_1._defineProperty(_components$1, TableColumn.name, TableColumn), _components$1),
   props: {
     data: {
       type: Array,

@@ -10,7 +10,7 @@ require('./chunk-98a92ff2.js');
 var __chunk_6 = require('./chunk-13e039f5.js');
 require('./chunk-68185b37.js');
 var Vue = _interopDefault(require('vue'));
-var __chunk_15 = require('./chunk-b8957314.js');
+var __chunk_17 = require('./chunk-b8957314.js');
 
 var ModalProgrammatic = {
   open: function open(params) {
@@ -29,7 +29,7 @@ var ModalProgrammatic = {
 
     var propsData = Object.assign(defaultParam, params);
     var vm = typeof window !== 'undefined' && window.Vue ? window.Vue : Vue;
-    var ModalComponent = vm.extend(__chunk_15.Modal);
+    var ModalComponent = vm.extend(__chunk_17.Modal);
     return new ModalComponent({
       parent: parent,
       el: document.createElement('div'),
@@ -39,7 +39,7 @@ var ModalProgrammatic = {
 };
 var Plugin = {
   install: function install(Vue) {
-    __chunk_6.registerComponent(Vue, __chunk_15.Modal);
+    __chunk_6.registerComponent(Vue, __chunk_17.Modal);
     __chunk_6.registerComponentProgrammatic(Vue, 'modal', ModalProgrammatic);
   }
 };

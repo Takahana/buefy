@@ -8,7 +8,7 @@ require('./chunk-a535ca7c.js');
 var __chunk_2 = require('./chunk-63cbbdfd.js');
 var __chunk_6 = require('./chunk-13e039f5.js');
 var Vue = _interopDefault(require('vue'));
-var __chunk_16 = require('./chunk-f1df1c63.js');
+var __chunk_18 = require('./chunk-f1df1c63.js');
 
 //
 var script = {
@@ -16,7 +16,7 @@ var script = {
   props: {
     active: Boolean,
     programmatic: Boolean,
-    container: [Object, Function, __chunk_16.HTMLElement],
+    container: [Object, Function, __chunk_18.HTMLElement],
     isFullPage: {
       type: Boolean,
       default: true

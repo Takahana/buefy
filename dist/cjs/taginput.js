@@ -10,12 +10,12 @@ require('./chunk-917cb730.js');
 var __chunk_6 = require('./chunk-13e039f5.js');
 require('./chunk-6418aa9f.js');
 var __chunk_8 = require('./chunk-16e31835.js');
-var __chunk_22 = require('./chunk-6fd4d8b3.js');
+var __chunk_24 = require('./chunk-6fd4d8b3.js');
 
 var _components;
 var script = {
   name: 'BTaginput',
-  components: (_components = {}, __chunk_1._defineProperty(_components, __chunk_8.Autocomplete.name, __chunk_8.Autocomplete), __chunk_1._defineProperty(_components, __chunk_22.Tag.name, __chunk_22.Tag), _components),
+  components: (_components = {}, __chunk_1._defineProperty(_components, __chunk_8.Autocomplete.name, __chunk_8.Autocomplete), __chunk_1._defineProperty(_components, __chunk_24.Tag.name, __chunk_24.Tag), _components),
   mixins: [__chunk_4.FormElementMixin],
   inheritAttrs: false,
   props: {

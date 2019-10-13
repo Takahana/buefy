@@ -9,12 +9,12 @@ require('./chunk-63cbbdfd.js');
 var __chunk_3 = require('./chunk-98a92ff2.js');
 var __chunk_6 = require('./chunk-13e039f5.js');
 var Vue = _interopDefault(require('vue'));
-var __chunk_18 = require('./chunk-9f335e9e.js');
+var __chunk_20 = require('./chunk-9f335e9e.js');
 
 //
 var script = {
   name: 'BSnackbar',
-  mixins: [__chunk_18.NoticeMixin],
+  mixins: [__chunk_20.NoticeMixin],
   props: {
     actionText: {
       type: String,

@@ -5,11 +5,11 @@ Object.defineProperty(exports, '__esModule', { value: true });
 var __chunk_1 = require('./chunk-a535ca7c.js');
 require('./chunk-98a92ff2.js');
 var __chunk_6 = require('./chunk-13e039f5.js');
-var __chunk_20 = require('./chunk-ddd4cab1.js');
+var __chunk_22 = require('./chunk-ddd4cab1.js');
 
 var script = {
   name: 'BSliderThumb',
-  components: __chunk_1._defineProperty({}, __chunk_20.Tooltip.name, __chunk_20.Tooltip),
+  components: __chunk_1._defineProperty({}, __chunk_22.Tooltip.name, __chunk_22.Tooltip),
   inheritAttrs: false,
   props: {
     value: {

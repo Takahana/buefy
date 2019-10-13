@@ -11,7 +11,7 @@ var __chunk_5 = require('./chunk-917cb730.js');
 var __chunk_6 = require('./chunk-13e039f5.js');
 var __chunk_11 = require('./chunk-68185b37.js');
 var Vue = _interopDefault(require('vue'));
-var __chunk_15 = require('./chunk-b8957314.js');
+var __chunk_17 = require('./chunk-b8957314.js');
 
 var script = {
   name: 'BDialog',
@@ -19,7 +19,7 @@ var script = {
   directives: {
     trapFocus: __chunk_11.trapFocus
   },
-  extends: __chunk_15.Modal,
+  extends: __chunk_17.Modal,
   props: {
     title: String,
     message: String,

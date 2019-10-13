@@ -7,12 +7,12 @@ require('./chunk-63cbbdfd.js');
 var __chunk_3 = require('./chunk-98a92ff2.js');
 var __chunk_5 = require('./chunk-917cb730.js');
 var __chunk_6 = require('./chunk-13e039f5.js');
-var __chunk_21 = require('./chunk-3dffe6e7.js');
+var __chunk_23 = require('./chunk-3dffe6e7.js');
 
 var _components;
 var script = {
   name: 'BSteps',
-  components: (_components = {}, __chunk_1._defineProperty(_components, __chunk_5.Icon.name, __chunk_5.Icon), __chunk_1._defineProperty(_components, __chunk_21.SlotComponent.name, __chunk_21.SlotComponent), _components),
+  components: (_components = {}, __chunk_1._defineProperty(_components, __chunk_5.Icon.name, __chunk_5.Icon), __chunk_1._defineProperty(_components, __chunk_23.SlotComponent.name, __chunk_23.SlotComponent), _components),
   props: {
     value: Number,
     type: [String, Object],
